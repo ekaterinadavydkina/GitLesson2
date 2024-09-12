@@ -1,5 +1,5 @@
 # GitLesson2
-Git Examples
+Git Examples Updated
 
 Updated1!
 
@@ -49,11 +49,3 @@ Updated1!
 
 
 
-
-
-
-
-
-
-
- 
